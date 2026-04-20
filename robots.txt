@@ -1,0 +1,2 @@
+User-agent: * #указываем, для каких роботов установлены директивы
+Sitemap: https://xn--80aa3aabredfhedkd6a7o.xn--p1ai/sitemap.xml # указываем роботу на файл sitemap для сайта

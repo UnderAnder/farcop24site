@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Galleries on Фаркоп на любую иномарку.</title>
+    <link>http://localhost:1313/gallery/</link>
+    <description>Recent content in Galleries on Фаркоп на любую иномарку.</description>
+    <generator>Hugo</generator>
+    <language>ru-ru</language>
+    <atom:link href="http://localhost:1313/gallery/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Американский квадрат</title>
+      <link>http://localhost:1313/gallery/square/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gallery/square/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Приварной шар</title>
+      <link>http://localhost:1313/gallery/welded/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gallery/welded/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Прикрутной шар</title>
+      <link>http://localhost:1313/gallery/bolted/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gallery/bolted/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
